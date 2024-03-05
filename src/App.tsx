@@ -25,7 +25,7 @@ function App() {
           backgroundImage: "linear-gradient(#02294F, #090E10)",
         }}
       >
-        <BrowserRouter>
+        <BrowserRouter basename="/weatherUI">
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/weather" element={<WeatherPage />} />
