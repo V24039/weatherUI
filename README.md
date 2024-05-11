@@ -8,6 +8,8 @@ User needs to enter the city name to fetch the weather upon searching using open
 
 Context API is used to store the weather global and the weather details arw fetched using useContext API.
 
+[Web Link](https://venuweather.netlify.app)
+
 ### How to run the project
 
 Clone the project repo and follow the basic react setup
